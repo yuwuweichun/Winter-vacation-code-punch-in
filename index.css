@@ -85,7 +85,4 @@ body{
     left: calc(100% / 5 *4);
     background-color: #8da1f8;
 }
-.nav ul li:nth-child(6):hover~.nav-box{
-    left: calc(100% / 5 *5);
-    background-color: #7df88e;
-}
+
