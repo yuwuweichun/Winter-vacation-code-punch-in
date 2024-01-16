@@ -66,26 +66,26 @@ body{
     line-height: 70px;
 }
 .nav ul li:nth-child(1):hover~.nav-box{
-    left: calc(100% / 6 *0);
+    left: calc(100% / 5 *0);
     background-color: rgb(250, 190, 250);
 }
 .nav ul li:nth-child(2):hover~.nav-box{
-    left: calc(100% / 6 *1);
+    left: calc(100% / 5 *1);
     background-color: red;
 }
 .nav ul li:nth-child(3):hover~.nav-box{
-    left: calc(100% / 6 *2);
+    left: calc(100% / 5 *2);
     background-color: #d18df8;
 }
 .nav ul li:nth-child(4):hover~.nav-box{
-    left: calc(100% / 6 *3);
+    left: calc(100% / 5 *3);
     background-color: #ffb1b1;
 }
 .nav ul li:nth-child(5):hover~.nav-box{
-    left: calc(100% / 6 *4);
+    left: calc(100% / 5 *4);
     background-color: #8da1f8;
 }
 .nav ul li:nth-child(6):hover~.nav-box{
-    left: calc(100% / 6 *5);
+    left: calc(100% / 5 *5);
     background-color: #7df88e;
 }
